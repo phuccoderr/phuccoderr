@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuc</h1>
-<h3 align="center">I'm a Web Developer</h3>
+<h3 align="center">I'm a Backend Developer</h3>
 <img alt="coding" width="100%" src="https://i.pinimg.com/736x/72/d7/41/72d74142e3471a64e57e1684cc1323f1.jpg">
 
 - 🌱 I’m currently learning **Microservice, NodeJS, ExpressJS**
